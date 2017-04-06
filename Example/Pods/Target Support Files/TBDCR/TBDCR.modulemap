@@ -1,0 +1,6 @@
+framework module TBDCR {
+  umbrella header "TBDCR-umbrella.h"
+
+  export *
+  module * { export * }
+}

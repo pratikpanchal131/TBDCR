@@ -1,0 +1,6 @@
+framework module Pods_TBDCR_Tests {
+  umbrella header "Pods-TBDCR_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
