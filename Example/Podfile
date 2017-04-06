@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TBDCR_Example' do
+  pod 'TBDCR', :path => '../'
+
+  target 'TBDCR_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
